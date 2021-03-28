@@ -44,3 +44,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+---
+https://blog.logrocket.com/windowing-wars-react-virtualized-vs-react-window/
+https://medium.com/@joedister/using-react-virtualized-infiniteloader-autosizer-and-table-with-material-ui-styles-react-76d3596b6c93
+https://www.freecodecamp.org/news/debounce-and-throttle-in-react-with-hooks/
+https://codepen.io/abidibo/pen/dwgLJo
